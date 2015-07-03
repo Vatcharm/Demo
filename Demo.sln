@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{FCE7761F-734E-44F3-A09E-0853EAC292DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3F0DB77B-6E56-4D7C-8BF0-678C7E2F9901}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8D399DB-2805-4C32-9773-C955BFC292F4}"
+	ProjectSection(SolutionItems) = preProject
+		test.bat = test.bat
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE7761F-734E-44F3-A09E-0853EAC292DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE7761F-734E-44F3-A09E-0853EAC292DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE7761F-734E-44F3-A09E-0853EAC292DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE7761F-734E-44F3-A09E-0853EAC292DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

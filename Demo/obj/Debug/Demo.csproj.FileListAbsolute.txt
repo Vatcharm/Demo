@@ -1,0 +1,16 @@
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.abstractions.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.runner.utility.desktop.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.execution.desktop.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\Demo.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\Demo.pdb
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.assert.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.core.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.assert.pdb
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.assert.xml
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.core.pdb
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\xunit.core.xml
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\obj\Debug\Demo.dll
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\obj\Debug\Demo.pdb
+D:\2015\Project\09 Private Project\TrainingGF\Demo\Demo\bin\Debug\Should.dll
